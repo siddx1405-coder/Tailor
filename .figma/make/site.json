@@ -1,0 +1,10 @@
+{
+  "description": "Creates visually appealing, customizable websites that enhance user engagement and provide a seamless design experience for businesses and creatives.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
